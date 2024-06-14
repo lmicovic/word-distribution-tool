@@ -1,0 +1,18 @@
+----------------------------------------------------------
+|FileInput| - start                   02/06/2022 14:11:33
+----------------------------------------------------------
+FileInput: FileInput-1
+Disk:      data\disk1
+Linked Directories: disk1, 
+Linked Crunchers: Cruncher 1, Cruncher 2, 
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk1
+D:\Other\Java\KiDSDomaci1\data\disk1
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk1\A\wiki-1.txt, D:\Other\Java\KiDSDomaci1\data\disk1\A\wiki-2.txt, D:\Other\Java\KiDSDomaci1\data\disk1\B\wiki-3.txt, D:\Other\Java\KiDSDomaci1\data\disk1\B\wiki-4.txt]
+Jobs: [wiki-1.txt, wiki-2.txt, null, null]
+----------------------------------------------------------
+
+----------------------------------------------------------
+|Task| - FileInput-1 - STOP           02/06/2022 14:11:41
+----------------------------------------------------------

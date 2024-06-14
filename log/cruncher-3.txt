@@ -1,0 +1,1300 @@
+-----------------------------------------------------------------
+|Cruncher| - START - Cruncher 3 Arity: 3     04/05/2022 19:50:54
+-----------------------------------------------------------------
+
+	-----------------------------------------------------------------
+	|Cruncher| - CruncherJob - Cruncher 3 Arity: 3      04/05/2022 19:51:00
+	-----------------------------------------------------------------
+	Job Count: 0
+	Jobs: 
+	Processing Job: wiki-1.txt
+	Data size: 524989 bytes
+	Word Count: 524733
+	CruncherTasks: 53
+	CruncherTask Processing: 10000 characters
+	-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-50
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 489960
+		Processing TO: 499952
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-8
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 69998
+		Processing TO: 79994
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-25
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 239977
+		Processing TO: 249976
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-5
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 39999
+		Processing TO: 49999
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-33
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 319969
+		Processing TO: 329971
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-52
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 509952
+		Processing TO: 519954
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-51
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 499953
+		Processing TO: 509951
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-48
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 469961
+		Processing TO: 479959
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-46
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 449958
+		Processing TO: 459961
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-45
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 439957
+		Processing TO: 449957
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-39
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 379966
+		Processing TO: 389963
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-42
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 409963
+		Processing TO: 419970
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-40
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 389964
+		Processing TO: 399960
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-36
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 349967
+		Processing TO: 359967
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-34
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 329972
+		Processing TO: 339971
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-30
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 289975
+		Processing TO: 299972
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-27
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 259975
+		Processing TO: 269983
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-28
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 269984
+		Processing TO: 279974
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-24
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 229981
+		Processing TO: 239976
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-22
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 209982
+		Processing TO: 219985
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-21
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 199985
+		Processing TO: 209981
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-18
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 169985
+		Processing TO: 179986
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-16
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 149986
+		Processing TO: 159987
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-9
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 79995
+		Processing TO: 89994
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-12
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 109998
+		Processing TO: 119989
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-10
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 89995
+		Processing TO: 99992
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-6
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 50000
+		Processing TO: 59994
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-4
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 30003
+		Processing TO: 39998
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-3
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 20001
+		Processing TO: 30002
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-1
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 0
+		Processing TO: 10006
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:00
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-15
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 139987
+		Processing TO: 149985
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-19
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 179987
+		Processing TO: 189983
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-17
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 159988
+		Processing TO: 169984
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-13
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 119990
+		Processing TO: 129990
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-53
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 519955
+		Processing TO: 524732
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-11
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 99993
+		Processing TO: 109997
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-41
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 399961
+		Processing TO: 409962
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-49
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 479960
+		Processing TO: 489959
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-47
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 459962
+		Processing TO: 469960
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-44
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 429962
+		Processing TO: 439956
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-43
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 419971
+		Processing TO: 429961
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-38
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 369967
+		Processing TO: 379965
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-35
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 339972
+		Processing TO: 349966
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-37
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 359968
+		Processing TO: 369966
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-32
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 309972
+		Processing TO: 319968
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-31
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 299973
+		Processing TO: 309971
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-29
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 279975
+		Processing TO: 289974
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-26
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 249977
+		Processing TO: 259974
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-2
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 10007
+		Processing TO: 20000
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-23
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 219986
+		Processing TO: 229980
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-7
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 59995
+		Processing TO: 69997
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-20
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 189984
+		Processing TO: 199984
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:01
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-14
+		Processing File: wiki-1.txt
+		Data Characters: 524733
+		Processing FROM: 129991
+		Processing TO: 139986
+		-----------------------------------------------------------------
+
+	-----------------------------------------------------------------
+	|Cruncher| - CruncherJob - Cruncher 3 Arity: 3      04/05/2022 19:51:10
+	-----------------------------------------------------------------
+	Job Count: 0
+	Jobs: 
+	Processing Job: wiki-2.txt
+	Data size: 524989 bytes
+	Word Count: 524733
+	CruncherTasks: 53
+	CruncherTask Processing: 10000 characters
+	-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-19
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 239977
+		Processing TO: 249976
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-49
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 229981
+		Processing TO: 239976
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-38
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 189984
+		Processing TO: 199984
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-29
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 309972
+		Processing TO: 319968
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-41
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 319969
+		Processing TO: 329971
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-35
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 259975
+		Processing TO: 269983
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-11
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 249977
+		Processing TO: 259974
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-24
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 10007
+		Processing TO: 20000
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-15
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 0
+		Processing TO: 10006
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-12
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 20001
+		Processing TO: 30002
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-21
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 30003
+		Processing TO: 39998
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-20
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 359968
+		Processing TO: 369966
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-53
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 349967
+		Processing TO: 359967
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-6
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 39999
+		Processing TO: 49999
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-28
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 50000
+		Processing TO: 59994
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-17
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 469961
+		Processing TO: 479959
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-7
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 369967
+		Processing TO: 379965
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-1
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 69998
+		Processing TO: 79994
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-2
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 389964
+		Processing TO: 399960
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-26
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 379966
+		Processing TO: 389963
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-40
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 89995
+		Processing TO: 99992
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-23
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 399961
+		Processing TO: 409962
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-10
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 59995
+		Processing TO: 69997
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-37
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 429962
+		Processing TO: 439956
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-5
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 479960
+		Processing TO: 489959
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-50
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 489960
+		Processing TO: 499952
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-44
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 519955
+		Processing TO: 524732
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-47
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 449958
+		Processing TO: 459961
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-13
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 459962
+		Processing TO: 469960
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-32
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 419971
+		Processing TO: 429961
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-31
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 409963
+		Processing TO: 419970
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-43
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 439957
+		Processing TO: 449957
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-8
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 509952
+		Processing TO: 519954
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-25
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 499953
+		Processing TO: 509951
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-14
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 329972
+		Processing TO: 339971
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-34
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 99993
+		Processing TO: 109997
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-16
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 119990
+		Processing TO: 129990
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-3
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 109998
+		Processing TO: 119989
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-33
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 159988
+		Processing TO: 169984
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-9
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 129991
+		Processing TO: 139986
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-4
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 79995
+		Processing TO: 89994
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-51
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 169985
+		Processing TO: 179986
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-45
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 209982
+		Processing TO: 219985
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-52
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 219986
+		Processing TO: 229980
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-18
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 269984
+		Processing TO: 279974
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-22
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 279975
+		Processing TO: 289974
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-36
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 289975
+		Processing TO: 299972
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-42
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 299973
+		Processing TO: 309971
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-46
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 199985
+		Processing TO: 209981
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-48
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 179987
+		Processing TO: 189983
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-30
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 339972
+		Processing TO: 349966
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-27
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 139987
+		Processing TO: 149985
+		-----------------------------------------------------------------
+
+		-----------------------------------------------------------------
+		|CruncherTask| - START - Cruncher 3 Arity: 3     04/05/2022 19:51:10
+		-----------------------------------------------------------------
+		Cruncher: Cruncher 3
+		Arity: 3
+		CruncherTaskID: pool-6-thread-39
+		Processing File: wiki-2.txt
+		Data Characters: 524733
+		Processing FROM: 149986
+		Processing TO: 159987
+		-----------------------------------------------------------------
+

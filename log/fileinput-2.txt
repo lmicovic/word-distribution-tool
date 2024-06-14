@@ -1,0 +1,57 @@
+----------------------------------------------------------
+|FileInput| - start                   02/06/2022 14:10:04
+----------------------------------------------------------
+FileInput: FileInput-2
+Disk:      data\disk2
+Linked Directories: disk2, 
+Linked Crunchers: Cruncher 1, 
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+D:\Other\Java\KiDSDomaci1\data\disk2
+Processed Files: [D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-5.txt, D:\Other\Java\KiDSDomaci1\data\disk2\C\wiki-6.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-7.txt, D:\Other\Java\KiDSDomaci1\data\disk2\D\wiki-8.txt]
+Jobs: [wiki-5.txt, wiki-6.txt, wiki-7.txt, wiki-8.txt]
+----------------------------------------------------------
+
+----------------------------------------------------------
+|Task| - FileInput-2 - STOP           02/06/2022 14:10:57
+----------------------------------------------------------
