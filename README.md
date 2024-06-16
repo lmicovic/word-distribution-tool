@@ -1,17 +1,18 @@
 # Word distribution tool
 
+## Table of contents
 1. [Introduction](#introduction)
 2. [System description](#system-description)
- - [Input pipe](#input-pipe)
- - [Cruncher pipe](#cruncher-pipe)
- - [Output pipe](#output-pipe)
+   - [Input pipe](#input-pipe)
+   - [Cruncher pipe](#cruncher-pipe)
+   - [Output pipe](#output-pipe)
 3. [Quality of system](#quality-of-system)
- - [Memory stability](#memory-stability)
- - [Functional quality](#functional-quality)
+   - [Memory stability](#memory-stability)
+   - [Functional quality](#functional-quality)
 4. [GUI system settings](#gui-system-settings)
 5. [Configuration file](#configuration-file)
 6. [Application usecase](#application-usecase)
-
+---
 
 
 
